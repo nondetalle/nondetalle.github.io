@@ -1,0 +1,1 @@
+This is the source code to Alessandro Aimi's public academic website: https://alessandroaimi.eu/. Feel free to clone this code for your own personal use. Credits to [Jon Barron](https://github.com/jonbarron/jonbarron_website) for the website design.
